@@ -30,6 +30,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# LOG IN
+LOGIN_URL = 'rango:login'
 
 # Application definition
 
